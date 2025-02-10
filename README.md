@@ -68,7 +68,7 @@ employeesManage.addEmp(emp);
 </pre>
 
 <h2>Contributors</h2>
-<p>Developed by: Sifiso</p>
+<p>Developed by: Sifiso Vinjwa</p>
 
 </body>
 </html>
